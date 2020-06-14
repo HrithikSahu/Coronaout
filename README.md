@@ -44,5 +44,13 @@ connect to a device with USB debugging on or use Android emulator
 ```
 flutter run
 ```
+## Download App here
+[Coronout](https://drive.google.com/file/d/1Bg3fK0v_Rr-dwSBYGLFvMvRs87XZFNAS/view?usp=sharing)
+
+
+## Setup
+###### How will you implement the idea? :
+###### For this idea we have used following tech stack :
+- IDE : [Android Studio](https://developer.android.com/studio)
 
 This project is made with :heart: by Hrithik Sahu
